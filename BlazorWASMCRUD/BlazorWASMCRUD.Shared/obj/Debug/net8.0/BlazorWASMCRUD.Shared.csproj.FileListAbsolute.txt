@@ -1,0 +1,15 @@
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\bin\Debug\net8.0\BlazorWASMCRUD.Shared.deps.json
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\bin\Debug\net8.0\BlazorWASMCRUD.Shared.runtimeconfig.json
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\bin\Debug\net8.0\BlazorWASMCRUD.Shared.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\bin\Debug\net8.0\BlazorWASMCRUD.Shared.pdb
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.csproj.AssemblyReference.cache
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.AssemblyInfoInputs.cache
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.AssemblyInfo.cs
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.csproj.CoreCompileInputs.cache
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.sourcelink.json
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\refint\BlazorWASMCRUD.Shared.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.pdb
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\BlazorWASMCRUD.Shared.genruntimeconfig.cache
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD.Shared\obj\Debug\net8.0\ref\BlazorWASMCRUD.Shared.dll

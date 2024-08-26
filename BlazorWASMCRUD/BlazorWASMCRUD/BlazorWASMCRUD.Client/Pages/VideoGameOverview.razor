@@ -1,0 +1,75 @@
+﻿@page "/videogames"
+@inject HttpClient Http
+@inject NavigationManager NavigationManage
+@rendermode @(new InteractiveWebAssemblyRenderMode(prerender: false))
+
+<PageTitle>Weather</PageTitle>
+
+<h1>Video Games</h1>
+
+<p>This component demonstrates showing data.</p>
+
+@if (videoGames == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Publisher</th>
+                <th>ReleaseYear</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var videoGame in videoGames)
+            {
+                <tr>
+                    <td>@videoGame.Title</td>
+                    <td>@videoGame.Publisher</td>
+                    <td>@videoGame.ReleaseYear</td>
+                    <td><button class="btn btn-outline-primary" @onclick="@(() => EditGame(videoGame.Id))">Edit</button></td>
+                    <td><button class="btn btn-outline-danger" @onclick="@(() => DeleteGame(videoGame.Id))">Delete</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<button class="btn btn-outline-primary" @onclick="AddGame">Add a New Game</button>
+
+@code {
+    List<VideoGame> videoGames = new List<VideoGame>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadGames();
+    }
+
+    void AddGame()
+    {
+        NavigationManage.NavigateTo("edit-game");
+    }
+
+    void EditGame(int id)
+    {
+        NavigationManage.NavigateTo($"edit-game/{id}");
+    }
+
+    async Task DeleteGame(int id)
+    {
+        await Http.DeleteAsync($"api/videogames/{id}");
+        await LoadGames();
+    }
+
+    async Task LoadGames()
+    {
+        var result = await Http.GetFromJsonAsync<List<VideoGame>>("api/videogames");
+
+        if (result is not null)
+            videoGames = result;
+    }
+}
