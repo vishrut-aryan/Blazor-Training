@@ -12,12 +12,14 @@ Price: <label for="roomPrice">@Room.Price</label>
 <br />
 
 Price:
-<input type="number" id="roomPrice" name="roomPrice" @bind="Room.Price" @bind:event="oninput" />
+<input type="number" id="roomPrice" name="roomPrice" @bind="Room.Price" />
 <br />
 
 Is Active:
 <input type="checkbox" id="roomActive" name="roomActive" @bind="Room.IsActive" /> &nbsp; Is Active
 <br />
+
+<span>This room is @(Room.IsActive?"Active":"Inactive")</span>
 
 @code {
     Models.BlazorRoom Room = new Models.BlazorRoom()
@@ -28,8 +30,8 @@ Is Active:
             Price = 499
         };
 
-    private void TriggerUIUpdate()
+    public void TriggerUIUpdate()
     {
-        StateHasChanged();  // Forces a UI re-render manually
+        Console.WriteLine(Room.RoomName + Room.IsActive);
     }
 }
