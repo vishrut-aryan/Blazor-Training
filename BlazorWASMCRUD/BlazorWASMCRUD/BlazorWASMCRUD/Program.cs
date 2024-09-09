@@ -1,11 +1,14 @@
 using BlazorWASMCRUD.Client.Pages;
 using BlazorWASMCRUD.Components;
 using BlazorWASMCRUD.Data;
+using BlazorWASMCRUD.Hubs;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
+
+builder.Services.AddSignalR();
 
 builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
@@ -35,6 +38,8 @@ app.UseAntiforgery();
 app.MapRazorComponents<App>()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(BlazorWASMCRUD.Client._Imports).Assembly);
+
+app.MapHub<GameHub>("/gamehub");
 
 app.MapControllers();
 

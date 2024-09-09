@@ -27,7 +27,14 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -42,6 +49,7 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Identity.Client.dll

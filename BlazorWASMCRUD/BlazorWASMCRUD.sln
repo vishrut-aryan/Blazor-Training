@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWASMCRUD", "BlazorWAS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWASMCRUD.Client", "BlazorWASMCRUD\BlazorWASMCRUD.Client\BlazorWASMCRUD.Client.csproj", "{33A83078-E6A7-4C88-9203-F07943B2E63E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASMCRUD.Shared", "BlazorWASMCRUD.Shared\BlazorWASMCRUD.Shared.csproj", "{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWASMCRUD.Shared", "BlazorWASMCRUD.Shared\BlazorWASMCRUD.Shared.csproj", "{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

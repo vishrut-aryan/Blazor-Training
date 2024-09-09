@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEdhbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/Pages/Lobby.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9iYnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/Pages/VideoGameOverview.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lT3ZlcnZpZXcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,3 +41,7 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/Components/Room.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb29tLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-1mn1w0e8ts

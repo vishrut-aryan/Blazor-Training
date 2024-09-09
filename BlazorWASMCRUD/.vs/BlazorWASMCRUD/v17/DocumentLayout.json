@@ -3,56 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud.shared\\entities\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|solutionrelative:blazorwasmcrud.shared\\entities\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\pages\\lobby.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\pages\\lobby.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\pages\\editgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\components\\room.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\components\\room.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\pages\\videogameoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\pages\\videogameoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\components\\room.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\components\\room.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud.shared\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|solutionrelative:blazorwasmcrud.shared\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud.shared\\entities\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|solutionrelative:blazorwasmcrud.shared\\entities\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\migrations\\20240826061909_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\migrations\\20240826061909_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud.shared\\entities\\tictactoegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2AD8CA-2DCD-4BFB-A802-52FABC694F7C}|BlazorWASMCRUD.Shared\\BlazorWASMCRUD.Shared.csproj|solutionrelative:blazorwasmcrud.shared\\entities\\tictactoegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,173 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 345,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.Razor.css",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.Razor.css",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.Razor.css",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.Razor.css",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.Razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-30T12:02:54.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lobby.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Lobby.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Lobby.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Lobby.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Lobby.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T06:26:38.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EditGame.razor",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\EditGame.razor",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\EditGame.razor",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\EditGame.razor",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\EditGame.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABWAAAA",
+              "Title": "Room.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Components\\Room.razor",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAG0AAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:52:46.898Z",
+              "WhenOpened": "2024-08-30T08:56:50.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:14:05.532Z"
+              "WhenOpened": "2024-08-30T06:46:55.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:10:36.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\_Imports.razor",
               "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\_Imports.razor",
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:04:39.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "VideoGameOverview.razor",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\VideoGameOverview.razor",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\VideoGameOverview.razor",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\VideoGameOverview.razor",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\VideoGameOverview.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T06:33:30.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VideoGamesController.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Controllers\\VideoGamesController.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Controllers\\VideoGamesController.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Controllers\\VideoGamesController.cs",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Controllers\\VideoGamesController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAQwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T06:21:02.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Data\\DataContext.cs",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAB8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T05:03:15.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VideoGame.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\VideoGame.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD.Shared\\Entities\\VideoGame.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\VideoGame.cs",
-              "RelativeToolTip": "BlazorWASMCRUD.Shared\\Entities\\VideoGame.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T05:00:58.94Z",
+              "WhenOpened": "2024-08-26T07:04:39.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Program.cs",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD.Shared\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\Player.cs",
+              "RelativeToolTip": "BlazorWASMCRUD.Shared\\Entities\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T07:25:52.427Z"
+              "WhenOpened": "2024-08-30T06:45:04.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\GameRoom.cs",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD.Shared\\Entities\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\GameRoom.cs",
+              "RelativeToolTip": "BlazorWASMCRUD.Shared\\Entities\\GameRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:44:46.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Title": "TicTacToeGame.cs",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\TicTacToeGame.cs",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD.Shared\\Entities\\TicTacToeGame.cs",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD.Shared\\Entities\\TicTacToeGame.cs",
+              "RelativeToolTip": "BlazorWASMCRUD.Shared\\Entities\\TicTacToeGame.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAArwFkAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T06:14:46.876Z"
+              "WhenOpened": "2024-08-30T06:45:40.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\appsettings.json",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\appsettings.json",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-26T06:07:20.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240826061909_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Migrations\\20240826061909_InitialCreate.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Migrations\\20240826061909_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Migrations\\20240826061909_InitialCreate.cs",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Migrations\\20240826061909_InitialCreate.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABIAAAA",
+              "DocumentIndex": 4,
+              "Title": "GameHub.cs",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Hubs\\GameHub.cs",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Hubs\\GameHub.cs",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Hubs\\GameHub.cs",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Hubs\\GameHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T06:19:09.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T04:51:39.93Z"
+              "WhenOpened": "2024-08-30T05:42:42.865Z",
+              "EditorCaption": ""
             }
           ]
         },
