@@ -2,6 +2,7 @@
     <h4 class="text-secondary">Amenities - @Amenity.Id</h4><br />
     @Amenity.Name<br />
     @Amenity.Description<br />
+    RF from Parent - @FirstFragment @SecondFragment
 </div>
 
 @code {
@@ -10,6 +11,12 @@
 
     [Parameter]
     public EventCallback<string> OnAmenitySelection { get; set; }
+
+    [Parameter]
+    public RenderFragment FirstFragment { get; set; }
+
+    [Parameter]
+    public RenderFragment SecondFragment { get; set; }
 
     protected async Task AmenitySelectionChanged(MouseEventArgs e, string name)
     {

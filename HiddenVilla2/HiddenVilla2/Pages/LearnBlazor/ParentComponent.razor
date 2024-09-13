@@ -1,11 +1,23 @@
-﻿@page "/parentComponent"
+﻿@page "/ParentComponent"
 
 <h1 class="text-danger">Parent Child Component</h1>
 
-<ChildComponent Title="This title was passed down from Parent Component">
-    Render Fragment from Parent
+<ChildComponent OnClickBtnMethod="ShowMessage" Title="This title was passed down from Parent Component">
+    <ChildContent>
+        Render Fragment from Parent
+    </ChildContent>
+    <DangerChildContent>
+        Danger Content from Parent
+    </DangerChildContent>
 </ChildComponent>
 
-@code {
+<AnotherChildComponent placeholder = "Please enter here (From Parent)"></AnotherChildComponent>
 
+<p><b>@messageText</b></p>
+
+@code {
+    private string messageText = "";
+    private void ShowMessage(MouseEventArgs e){
+        messageText = "Blazing Text from Parent";
+    }
 }

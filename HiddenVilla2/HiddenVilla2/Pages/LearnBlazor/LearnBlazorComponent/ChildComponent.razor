@@ -1,8 +1,35 @@
 ﻿<div>
     <div class="alert alert-info">@Title</div>
+    <div class="alert alert-success">
+        @if(DangerChildContent == null)
+        {
+            @if(ChildContent == null)
+            {
+                <span>Hi, I am empty inside</span>
+            }
+            else
+            {
+                <span>@ChildContent</span>
+            }
+        }
+        else
+        {
+            <span>@DangerChildContent</span>
+        }
+    </div>
+    <button class="btn btn-danger" @onclick="OnClickBtnMethod">Button to be clicked</button><br />
 </div>
 
 @code {
     [Parameter]
-    public int Title { get; set; }
+    public string Title { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter]
+    public RenderFragment DangerChildContent { get; set; }
+
+    [Parameter]
+    public EventCallback<MouseEventArgs> OnClickBtnMethod { get; set; }
 }
