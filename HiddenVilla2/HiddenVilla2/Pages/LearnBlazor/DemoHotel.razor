@@ -6,21 +6,36 @@
 <div class="border p-2 mt-2" style="background-color:azure">
     <h2 class="text-info">Room List (Using Components)</h2>
     <div class="row container">
+        <div class="col-12">
+            <h4 class="text-info">Hotel Room's</h4>
+            <span>Rooms Selected - @SelectedRooms</span>
+        </div>
+
         @foreach (var room in RoomsList)
         {
-            <div class="bg-light border p-2 col-5">
-                <h4 class="text-secondary">Room - @room.Id</h4><br />
-                @room.RoomName<br />
-                @room.Price.ToString("c")<br />
-                <input type="checkbox" @bind-value="room.IsActive" /> &nbsp; Is Active<br />
-                <span>This room is @(room.IsActive?"Active":"Inactive")</span><br />
-            </div>
+            <IndividualRoom OnRoomCheckBoxSelection="RoomSelectedCounterChanged" Room="@room"></IndividualRoom>
         }
+
+        <div class="mt-4 col-12">
+            <h4 class="text-info">Hotel Amenity's[assignment]</h4>
+        </div>
+
+        @foreach (var amenity in AmenitiesList)
+        {
+            <IndividualAmenity OnAmenitySelection="AmenitySelectionChanged" Amenity="@amenity"></IndividualAmenity>
+        }
+    </div>
+    <div class="col-12">
+        <p class="text-secondary">Selected Amenity : @SelectedAmenity</p>
     </div>
 </div>
 
 @code {
+    public int SelectedRooms { get; set; } = 0;
+    public string SelectedAmenity { get; set; } = "";
+
     List<BlazorRoom> RoomsList = new List<BlazorRoom>();
+    List<BlazorAmenities> AmenitiesList = new List<BlazorAmenities>();
 
     protected override void OnInitialized()
     {
@@ -51,5 +66,43 @@
                 new BlazorRoomProp{ Id = 2, Name = "Occupancy", Value = "4" }
             }
         });
+
+        AmenitiesList.Add(new BlazorAmenities()
+        {
+            Id = 111,
+            Name = "Gym",
+            Description = "24 X 7 Gym is Available"
+        });
+
+        AmenitiesList.Add(new BlazorAmenities()
+        {
+            Id = 222,
+            Name = "Swimming Pool",
+            Description = "Pool is open from 6am to 10pm"
+        });
+
+        AmenitiesList.Add(new BlazorAmenities()
+        {
+            Id = 333,
+            Name = "Free Breakfast",
+            Description = "Enjoy complimentary breakfast service"
+        });
+    }
+
+    protected void RoomSelectedCounterChanged(bool isRoomSelected)
+    {
+        if (isRoomSelected)
+        {
+            SelectedRooms++;
+        }
+        else
+        {
+            SelectedRooms--;
+        }
+    }
+
+    protected void AmenitySelectionChanged(string amenity)
+    {
+        SelectedAmenity = amenity;
     }
 }

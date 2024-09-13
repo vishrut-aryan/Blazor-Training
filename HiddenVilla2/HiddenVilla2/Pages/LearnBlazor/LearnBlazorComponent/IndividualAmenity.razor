@@ -1,0 +1,18 @@
+﻿<div class="bg-light border p-2 col-5 offset-1" @onclick="(args)=> AmenitySelectionChanged(args, Amenity.Name)">
+    <h4 class="text-secondary">Amenities - @Amenity.Id</h4><br />
+    @Amenity.Name<br />
+    @Amenity.Description<br />
+</div>
+
+@code {
+    [Parameter]
+    public BlazorAmenities Amenity { get; set; }
+
+    [Parameter]
+    public EventCallback<string> OnAmenitySelection { get; set; }
+
+    protected async Task AmenitySelectionChanged(MouseEventArgs e, string name)
+    {
+        await OnAmenitySelection.InvokeAsync(name);
+    }
+}
