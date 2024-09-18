@@ -1,0 +1,94 @@
+﻿@page "/lifecycle"
+
+@using System.Threading
+
+<h3>Lifecycle</h3>
+
+<div class="border">
+    <LifecycleComponent CountValue="@currentCount"></LifecycleComponent>
+</div>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button><br /><br />
+
+<button @onclick="StartCountdown">Start Countdown</button> @Count
+<hr />
+
+@foreach(var item in EventType)
+{
+    @item<hr />
+}
+
+@code {
+    private int currentCount = 0;
+    List<string> EventType = new List<string>();
+    private int Count { get; set; } = 5;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    protected override void OnInitialized()
+    {
+        EventType.Add("OnInitialized was called");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        EventType.Add("OnInitializedAsync was called");
+        await Task.Delay(1000);
+    }
+
+    protected override void OnParametersSet()
+    {
+        EventType.Add("OnParametersSet was called");
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        EventType.Add("OnParametersSetAsync was called");
+        await Task.Delay(1000);
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            currentCount = 111;  // on render, will keep showing value zero, but value updates to 111 after the render
+        }
+        else
+        {
+            currentCount = 999;  // on re-render(button click), value will update to show as 111 + increment, but after this re-render will update to 999
+        }
+
+        EventType.Add("OnAfterRender was called");
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        EventType.Add("OnAfterRenderAsync was called");
+        await Task.Delay(2000);
+    }
+
+    protected override bool ShouldRender()
+    {
+        EventType.Add("ShouldRender was called");
+        return true;
+    }
+
+    void StartCountdown()
+    {
+        var timer = new Timer(TimeCallBack, null, 1000, 1000);
+    }
+
+    void TimeCallBack(object state)
+    {
+        if(Count > 0)
+        {
+            Count--;
+            InvokeAsync(StateHasChanged);
+        }
+    }
+}
