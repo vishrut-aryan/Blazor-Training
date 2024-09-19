@@ -23,3 +23,5 @@ window.ShowSwal = (type, message) => {
         });
     }
 };
+
+function ShowDeleteConfirmationModal
