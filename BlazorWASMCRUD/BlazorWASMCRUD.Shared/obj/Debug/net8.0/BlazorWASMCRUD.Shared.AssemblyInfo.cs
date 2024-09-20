@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorWASMCRUD.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ab7c7ed27bcd363ca50236dcb74dc89f018ddc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ec8d9bf23d69bc6553ab1f2a0cc42b18549911")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorWASMCRUD.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorWASMCRUD.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

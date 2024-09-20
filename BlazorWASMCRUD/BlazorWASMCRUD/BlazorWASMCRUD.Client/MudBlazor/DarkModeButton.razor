@@ -1,0 +1,20 @@
+﻿@inject MudThemeProvider ThemeProvider
+@using global::MudBlazor
+
+<MudSwitch @bind-Value="_isDarkMode" Color="Color.Primary" Class="ma-4" T="bool" Label="Toggle Light/Dark Mode" />
+
+@code {
+    private bool _isDarkMode;
+
+    protected override void OnInitialized()
+    {
+        _isDarkMode = ThemeProvider.IsDarkMode;
+    }
+
+    private void OnDarkModeChanged(bool value)
+    {
+        _isDarkMode = value;
+        ThemeProvider.IsDarkMode = _isDarkMode;
+        StateHasChanged();
+    }
+}

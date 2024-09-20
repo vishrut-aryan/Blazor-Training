@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -64,9 +65,11 @@ namespace Business.Repository
             try
             {
                 var roomDetails = await _db.HotelRooms.FindAsync(roomId);
-
                 if (roomDetails == null)
                 {
+                    var images = await _db.HotelRoomImages.Where(x => x.RoomId == roomId).ToListAsync();
+                    
+                    _db.HotelRoomImages.RemoveRange(images);
                     _db.HotelRooms.Remove(roomDetails);
                     return await _db.SaveChangesAsync();
                 }

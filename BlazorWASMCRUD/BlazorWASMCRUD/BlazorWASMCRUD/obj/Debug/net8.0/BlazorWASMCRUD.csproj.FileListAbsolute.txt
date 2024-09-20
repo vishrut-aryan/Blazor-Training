@@ -50,6 +50,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Identity.Client.dll
@@ -65,6 +67,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\MudBlazor.ThemeManager.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD\bin\Debug\net8.0\System.Composition.Convention.dll

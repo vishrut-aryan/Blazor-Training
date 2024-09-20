@@ -3,6 +3,9 @@ build_property.EnableAotAnalyzer =
 build_property.EnableSingleFileAnalyzer = 
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -21,6 +24,26 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/MudBlazor/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = TXVkQmxhem9yXENoZWNrb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/MudBlazor/DarkModeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = TXVkQmxhem9yXERhcmtNb2RlQnV0dG9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/MudBlazor/Grid.razor]
+build_metadata.AdditionalFiles.TargetPath = TXVkQmxhem9yXEdyaWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/MudBlazor/MudBlazor_Testing.razor]
+build_metadata.AdditionalFiles.TargetPath = TXVkQmxhem9yXE11ZEJsYXpvcl9UZXN0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/MudBlazor/Pricing.razor]
+build_metadata.AdditionalFiles.TargetPath = TXVkQmxhem9yXFByaWNpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/varyan/source/repos/Blazor Training/BlazorWASMCRUD/BlazorWASMCRUD/BlazorWASMCRUD.Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==

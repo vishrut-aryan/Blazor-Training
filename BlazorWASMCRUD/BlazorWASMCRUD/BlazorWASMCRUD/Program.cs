@@ -2,13 +2,17 @@ using BlazorWASMCRUD.Client.Pages;
 using BlazorWASMCRUD.Components;
 using BlazorWASMCRUD.Data;
 using BlazorWASMCRUD.Hubs;
+using BlazorWASMCRUD.Shared.Services;
 using Microsoft.EntityFrameworkCore;
+using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
 builder.Services.AddSignalR();
+builder.Services.AddMudServices();
+builder.Services.AddScoped<ThemeService>();
 
 builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();

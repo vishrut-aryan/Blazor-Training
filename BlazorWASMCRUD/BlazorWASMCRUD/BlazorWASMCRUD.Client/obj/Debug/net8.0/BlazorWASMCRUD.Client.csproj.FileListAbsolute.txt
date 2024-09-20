@@ -83,6 +83,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Localization.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Logging.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm
@@ -105,6 +107,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.SystemEvents.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Mono.TextTemplating.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\MudBlazor.ThemeManager.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\MudBlazor.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\pl\Microsoft.CodeAnalysis.CSharp.resources.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.wasm
@@ -382,6 +386,7 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.TypeExtensions.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Contracts.wasm.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\MudBlazor.ThemeManager.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.5.9c10i9mryy.js.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Composition.Runtime.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\ru\Microsoft.CodeAnalysis.resources.wasm.gz
@@ -470,6 +475,7 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\de\Microsoft.CodeAnalysis.resources.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Common.wasm.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Localization.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
@@ -540,6 +546,7 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Text.Json.wasm.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\MudBlazor.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
@@ -577,6 +584,7 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Principal.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.wasm.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.TypeConverter.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.AccessControl.wasm.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Csp.wasm.gz
@@ -658,6 +666,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -675,6 +685,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\MudBlazor.ThemeManager.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -969,6 +981,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Abstractions.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileProviders.Physical.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.FileSystemGlobbing.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.Localization.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.Localization.Abstractions.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.Logging.Abstractions.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Extensions.Options.wasm
@@ -986,6 +1000,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.SqlServer.Server.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Microsoft.Win32.SystemEvents.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\Mono.TextTemplating.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\MudBlazor.wasm
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\MudBlazor.ThemeManager.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\System.CodeDom.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\System.Composition.AttributedModel.wasm
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\webcil\System.Composition.Convention.wasm
@@ -1232,7 +1248,9 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWASMCRUD.Client.props
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorWASMCRUD.Client.props
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\scopedcss\Components\Room.Razor.rz.scp.css
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\scopedcss\bundle\BlazorWASMCRUD.Client.styles.css
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWASMCRUD.Client.bundle.scp.css
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\ygjn5vs1g7.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\h79a2kal1a.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\u44yzxc2q5.gz
@@ -1275,6 +1293,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\ft83w5bsko.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\di7cec9z1v.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\6u72yyota9.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\inm8su97mi.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\vbf4m435xz.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\on9v7wmelx.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\jetu3tdi5w.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\1q0n1hb7gc.gz
@@ -1292,6 +1312,8 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\fgr15uiem1.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\1fzmezs58o.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\d7v89xa87x.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\r37ab40eh7.gz
+C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\98t766iggg.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\7od07ty74v.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\jvkyc7tw4i.gz
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\compressed\wn39ftwe1o.gz
@@ -1546,5 +1568,3 @@ C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\Blazo
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\refint\BlazorWASMCRUD.Client.dll
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\BlazorWASMCRUD.Client.pdb
 C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\ref\BlazorWASMCRUD.Client.dll
-C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\scopedcss\Components\Room.Razor.rz.scp.css
-C:\Users\varyan\source\repos\Blazor Training\BlazorWASMCRUD\BlazorWASMCRUD\BlazorWASMCRUD.Client\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWASMCRUD.Client.bundle.scp.css

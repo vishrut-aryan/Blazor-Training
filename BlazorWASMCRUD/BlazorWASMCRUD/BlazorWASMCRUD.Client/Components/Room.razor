@@ -93,6 +93,7 @@
             CurrentRoom = serverRoom;
             StateHasChanged();
         });
+        await Task.CompletedTask;
     }
 
     async Task StartGame()
