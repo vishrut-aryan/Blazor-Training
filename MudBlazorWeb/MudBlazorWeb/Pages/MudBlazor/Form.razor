@@ -1,0 +1,50 @@
+﻿@page "/form"
+@using global::MudBlazor
+
+<MudContainer MaxWidth="MaxWidth.Large" Class="mt-5">
+    <MudAutocomplete @bind-Value="_value" SearchFunc="Search" Variant="Variant.Outlined" 
+        Clearable="true" T="string" ResetValueOnEmptyText="true" CoerceText="true"
+        AdornmentIcon="@Icons.Material.Filled.Search" AdornmentColor="Color.Primary"
+        ShowProgressIndicator="true" MinCharacters="3">
+        <ProgressIndicatorTemplate>
+            <MudProgressLinear Size="Size.Small" Indeterminate="true" Color="Color.Primary" />
+        </ProgressIndicatorTemplate>
+    </MudAutocomplete>
+    @if (IsSearching)
+    {
+        <MudProgressCircular Color="Color.Primary" Indeterminate="true" />
+    }
+    <MudText Class="mb-n3" Typo="Typo.body2">
+        <MudChip T="string">@(_value ?? "Not selected")</MudChip>
+    </MudText>
+</MudContainer>
+
+@code {
+    string? _value;
+    bool IsSearching { get; set; } = false;
+
+
+    private string[] _states =
+    {
+        "Alabama", "Alaska", "Arizona", "Arkansas", "California",
+        "Colorado", "Connecticut", "Delaware", "Florida", "Georgia",
+        "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas",
+        "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts",
+        "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana",
+        "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico",
+        "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma",
+        "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota",
+        "Tennessee", "Texas", "Utah", "Vermont", "Virginia",
+        "Washington", "West Virginia", "Wisconsin", "Wyoming"
+    };
+
+    private async Task<IEnumerable<string>> Search(string value)
+    {
+        IsSearching = true;
+        await Task.Delay(5);
+        if (string.IsNullOrEmpty(value))
+            return _states;
+        IsSearching = false;
+        return _states.Where(x => x.Contains(value, StringComparison.InvariantCultureIgnoreCase));
+    }
+}

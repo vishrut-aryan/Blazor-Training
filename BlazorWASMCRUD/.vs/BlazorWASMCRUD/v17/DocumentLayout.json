@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\layout\\mynavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\layout\\mynavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\mudblazor\\darkmodebutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud.client\\mudblazor\\mudblazor_testing.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33A83078-E6A7-4C88-9203-F07943B2E63E}|BlazorWASMCRUD\\BlazorWASMCRUD.Client\\BlazorWASMCRUD.Client.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud.client\\mudblazor\\mudblazor_testing.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|c:\\users\\varyan\\source\\repos\\blazor training\\blazorwasmcrud\\blazorwasmcrud\\blazorwasmcrud\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5BAD6D8E-AB94-404F-9AC4-F39D2FFBF385}|BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.csproj|solutionrelative:blazorwasmcrud\\blazorwasmcrud\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 345,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +62,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T07:08:55.04Z",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\App.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T07:33:37.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DarkModeButton.razor",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Title": "MyNavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MyNavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MyNavMenu.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MyNavMenu.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MyNavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:47:54.285Z",
+              "WhenOpened": "2024-09-20T07:29:48.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T07:29:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Pricing.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\Pricing.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\Pricing.razor",
@@ -92,12 +109,11 @@
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\Pricing.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:39:37.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:39:37.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Grid.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\Grid.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\Grid.razor",
@@ -105,12 +121,11 @@
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\Grid.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:38:20.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:38:20.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Home.razor",
@@ -118,12 +133,11 @@
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:26:09.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:26:09.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
@@ -131,25 +145,36 @@
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:24:42.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:24:42.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-20T06:02:09.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "DarkModeButton.razor",
+              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
+              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
+              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
+              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\DarkModeButton.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:47:54.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MudBlazor_Testing.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\MudBlazor_Testing.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\MudBlazor_Testing.razor",
@@ -157,12 +182,11 @@
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD.Client\\MudBlazor\\MudBlazor_Testing.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:08:13.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:08:13.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
@@ -170,21 +194,7 @@
               "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T06:06:37.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "BlazorWASMCRUD\\BlazorWASMCRUD\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\varyan\\source\\repos\\Blazor Training\\BlazorWASMCRUD\\BlazorWASMCRUD\\BlazorWASMCRUD\\wwwroot\\app.css",
-              "RelativeToolTip": "BlazorWASMCRUD\\BlazorWASMCRUD\\wwwroot\\app.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T06:00:23.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T06:06:37.072Z"
             }
           ]
         },
