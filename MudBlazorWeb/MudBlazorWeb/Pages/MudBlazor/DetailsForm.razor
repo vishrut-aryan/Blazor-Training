@@ -1,5 +1,30 @@
-﻿<h3>DetailsForm</h3>
+﻿@page "/testing"
+@using global::MudBlazor
+@using global::Shared.TestItems
+
+<h3>Testing</h3>
+
+@(Status)
+@((int)Status) %
+
+<MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="UpdateStatus">
+    Generate Random Status
+</MudButton>
 
 @code {
+    public StatusTypes Status { get; set; }
 
+    private Array values;
+    private Random random = new Random();
+
+    protected override void OnInitialized()
+    {
+        values = Enum.GetValues(typeof(StatusTypes));
+        UpdateStatus();
+    }
+
+    private void UpdateStatus()
+    {
+        Status = (StatusTypes)values.GetValue(random.Next(values.Length));
+    }
 }
